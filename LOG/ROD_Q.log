@@ -1,0 +1,99 @@
+Fri Apr 14 10:49:28 EEST 2017 ************START************
+uid=903(cwua) gid=745(icua) groups=745(icua)
+file /ua13app/lifeua/ecom/scripts/ROD_Q/LOG/ROD_Q.log start created at Fri Apr 14 10:49:28 EEST 2017
+file rod_q_ecl_140420171049 end creation at Fri Apr 14 10:49:28 EEST 2017
+Fri Apr 14 10:49:58 EEST 2017 file is generated
+Fri Apr 14 10:50:03 EEST 2017 file is converted
+Start
+Fri Apr 14 10:50:03 EEST 2017
+Start sending
+Fri Apr 14 10:50:03 EEST 2017
+End sending
+End
+End
+Fri Apr 14 10:50:04 EEST 2017 mail script has been accompished
+Fri Apr 14 10:50:04 EEST 2017 ************STOP************
+Fri Apr 14 10:51:09 EEST 2017 ************START************
+uid=903(cwua) gid=745(icua) groups=745(icua)
+file /ua13app/lifeua/ecom/scripts/ROD_Q/LOG/ROD_Q.log start created at Fri Apr 14 10:51:09 EEST 2017
+file rod_q_ecl_140420171051 end creation at Fri Apr 14 10:51:09 EEST 2017
+Fri Apr 14 10:51:39 EEST 2017 file is generated
+Fri Apr 14 10:51:45 EEST 2017 file is converted
+Start
+Fri Apr 14 10:51:45 EEST 2017
+Start sending
+Fri Apr 14 10:51:45 EEST 2017
+/ua13app/lifeua/ecom/scripts/ROD_Q/OUT/rod_q_ecl_140420171051.csv
+End sending
+End
+End
+Fri Apr 14 10:51:45 EEST 2017 mail script has been accompished
+Fri Apr 14 10:51:45 EEST 2017 ************STOP************
+Fri Apr 14 11:00:12 EEST 2017 ************START************
+uid=903(cwua) gid=745(icua) groups=745(icua)
+file /ua13app/lifeua/ecom/scripts/ROD_Q/LOG/ROD_Q.log start created at Fri Apr 14 11:00:12 EEST 2017
+file rod_q_ecl_140420171100 end creation at Fri Apr 14 11:00:13 EEST 2017
+Fri Apr 14 11:00:43 EEST 2017 file is generated
+Fri Apr 14 11:00:48 EEST 2017 file is converted
+Start
+Fri Apr 14 11:00:48 EEST 2017
+Start sending
+Fri Apr 14 11:00:48 EEST 2017
+/ua13app/lifeua/ecom/scripts/ROD_Q/OUT/rod_q_ecl_140420171051.csv
+/ua13app/lifeua/ecom/scripts/ROD_Q/OUT/rod_q_ecl_140420171100.csv
+End sending
+End
+End
+Fri Apr 14 11:00:48 EEST 2017 mail script has been accompished
+Fri Apr 14 11:00:48 EEST 2017 ************STOP************
+Fri Apr 14 11:01:17 EEST 2017 ************START************
+uid=903(cwua) gid=745(icua) groups=745(icua)
+file /ua13app/lifeua/ecom/scripts/ROD_Q/LOG/ROD_Q.log start created at Fri Apr 14 11:01:17 EEST 2017
+file rod_q_ecl_140420171101 end creation at Fri Apr 14 11:01:17 EEST 2017
+Fri Apr 14 11:01:47 EEST 2017 file is generated
+Fri Apr 14 11:01:52 EEST 2017 file is converted
+Start
+Fri Apr 14 11:01:52 EEST 2017
+Start sending
+Fri Apr 14 11:01:52 EEST 2017
+/ua13app/lifeua/ecom/scripts/ROD_Q/OUT/rod_q_ecl_140420171051.csv
+/ua13app/lifeua/ecom/scripts/ROD_Q/OUT/rod_q_ecl_140420171101.csv
+End sending
+End
+End
+Fri Apr 14 11:01:52 EEST 2017 mail script has been accompished
+Fri Apr 14 11:01:52 EEST 2017 ************STOP************
+Fri Apr 14 11:02:49 EEST 2017 ************START************
+uid=903(cwua) gid=745(icua) groups=745(icua)
+file /ua13app/lifeua/ecom/scripts/ROD_Q/LOG/ROD_Q.log start created at Fri Apr 14 11:02:49 EEST 2017
+file rod_q_ecl_140420171102 end creation at Fri Apr 14 11:02:51 EEST 2017
+Fri Apr 14 11:03:21 EEST 2017 file is generated
+Fri Apr 14 11:03:26 EEST 2017 file is converted
+Start
+Fri Apr 14 11:03:26 EEST 2017
+Start sending
+Fri Apr 14 11:03:26 EEST 2017
+/ua13app/lifeua/ecom/scripts/ROD_Q/OUT/rod_q_ecl_140420171051.csv
+/ua13app/lifeua/ecom/scripts/ROD_Q/OUT/rod_q_ecl_140420171102.csv
+End sending
+End
+End
+Fri Apr 14 11:03:26 EEST 2017 mail script has been accompished
+Fri Apr 14 11:03:26 EEST 2017 ************STOP************
+Fri Apr 14 11:04:49 EEST 2017 ************START************
+uid=903(cwua) gid=745(icua) groups=745(icua)
+file /ua13app/lifeua/ecom/scripts/ROD_Q/LOG/ROD_Q.log start created at Fri Apr 14 11:04:49 EEST 2017
+file rod_q_ecl_140420171104 end creation at Fri Apr 14 11:05:08 EEST 2017
+Fri Apr 14 11:05:38 EEST 2017 file is generated
+Fri Apr 14 11:05:43 EEST 2017 file is converted
+Start
+Fri Apr 14 11:05:43 EEST 2017
+Start sending
+Fri Apr 14 11:05:43 EEST 2017
+/ua13app/lifeua/ecom/scripts/ROD_Q/OUT/rod_q_ecl_140420171051.csv
+/ua13app/lifeua/ecom/scripts/ROD_Q/OUT/rod_q_ecl_140420171104.csv
+End sending
+End
+End
+Fri Apr 14 11:05:43 EEST 2017 mail script has been accompished
+Fri Apr 14 11:05:43 EEST 2017 ************STOP************
