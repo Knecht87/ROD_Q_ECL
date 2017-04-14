@@ -7,9 +7,9 @@ path_out=/ua13app/lifeua/ecom/scripts/ROD_Q/OUT
 file_log=/ua13app/lifeua/ecom/scripts/ROD_Q/LOG/ROD_Q.log
 
 #kto=`whoami`
-#if [ "${kto}" != "edekua" ]; then
+#if [ "${kto}" != "%%%%%%" ]; then
 #echo "skrypt odpalil ${kto}" >> ${file_log}
-#echo "Invalid user to run this script!!! You must be logged as edekua"
+#echo "Invalid user to run this script!!! You must be logged as %%%%%"
 #exit
 #else
 #echo "${kto}" >> ${file_log}
@@ -26,7 +26,7 @@ echo `id` >> ${file_log}
 
 echo "file ${file_log} start created at `date`" >> ${file_log}
 
-usu edekua rod_q_ecl_sql.sh >> ${path_out}/${file_name}.txt
+usu %%%%%%%%%% rod_q_ecl_sql.sh >> ${path_out}/${file_name}.txt
 
 echo "file ${file_name} end creation at `date`" >> ${file_log}
 sleep 30
